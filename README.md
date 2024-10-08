@@ -20,7 +20,7 @@ Welcome to the **My E-Commerce Dashboard**! This dashboard provides insights int
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/risdaaaa/Dashboard-E-Commerce-Public-Dataset-Analysis.git
+    git clone https://github.com/uutsyazah/Analisis
     ```
 
 2. Navigate to the project directory:
